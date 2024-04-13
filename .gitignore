@@ -3,6 +3,8 @@
 /node_modules
 /build
 
+/mongo
+
 # Logs
 logs
 *.log
@@ -12,8 +14,6 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-#container
-mongo
 
 # OS
 .DS_Store
