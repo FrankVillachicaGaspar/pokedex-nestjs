@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: rgb(11, 14, 22);
+}
+
+h1 {
+  color: white;
+}
